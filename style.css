@@ -1,0 +1,39 @@
+body {
+  background-color: #cc9;
+  margin: 10px;
+  padding: 10;
+  border: 3px solid green;
+}
+h1,p {
+  color: black;
+  text-align: center;
+}
+.secondary-header{
+  color: blue;
+}
+#special-header{
+  color: purple;
+  font-size: 60px;
+}
+.button{
+  padding: 5px;
+  background-color: purple;
+  border: 2px solid white;
+}
+.button a{
+  text-decoration: none;
+  color: white;
+  display: block;
+  text-align: center;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.hooray{
+  background: ;
+  width: ;
+  box-shadow: ;
+}
